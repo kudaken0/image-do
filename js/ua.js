@@ -22,3 +22,4 @@
         window.location.href = "https://kudaken.com/image-do/houhou/index.html";
       }
     });
+  
